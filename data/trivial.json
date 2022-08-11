@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Adam's Apple Bowthorpe from Fetch",
+          "amenity": "Fruit Store",
+          "popupContent": "<h1>Adam's Apple Bowthorpe</h1><p>53 Roker Terrace<br />LANGTON LONG BLANDFORD<br />DT11 8BU<br />tel: 070 8132 5179</p>"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [1.2173105,52.6372672]
+        }
+      }
+    ]
+  }
